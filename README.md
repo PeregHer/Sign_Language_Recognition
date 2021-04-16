@@ -27,11 +27,11 @@ Le notebook est disponible [ici](csv_mediapipe.ipynb).
 
 Afin de classifier nos images, nous utilisons un modèle **RandomForestClassifier** de la librairie **ScikitLearn**. Afin de contre-balancer le déséquilibre du nombre d'image pour chaque classe, nous utilisons la cross validation avec **StratifiedKFlod** afin d'avoir une bonne repartition des nos classes pendant l'entrainemenet.
 
-![](images/StratifiedKFold.png)
+![](Images/StratifiedKFold.png)
 
 Nous obtenons un précision de **97%**, voici la matrice de confusion :
 
-![](images/cm.png)
+![](Images/cm.png)
 
 ## Application
 
