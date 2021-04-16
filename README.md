@@ -33,6 +33,8 @@ Nous obtenons un précision de **97%**, voici la matrice de confusion :
 
 ![](Images/cm.png)
 
+Le notebook est disponible [ici](classification_model.ipynb)
+
 ## Application
 
 Pour tester le modèle : [app.py](app.py)
